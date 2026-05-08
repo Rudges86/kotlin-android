@@ -1,4 +1,1 @@
-Projeto feito no androidStudio para consolidar os conhecimentos.
-Foi solicitado para desenvolver um app de finanças pessoais.
-Componentes utilizados:
-data class, enum, box, column, row, navigation, KeyBoard, card, text, filds, navigationBar entre outros.
+Projeto feito no androidStudio para consolidar os conhecimentos. Foi solicitado para desenvolver um crud de gerenciamento de contatos, para treinar o uso do sqlite e chamadas externas via retrofit.

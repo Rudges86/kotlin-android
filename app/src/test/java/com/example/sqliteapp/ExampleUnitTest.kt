@@ -1,4 +1,4 @@
-package com.example.appfinancas
+package com.example.sqliteapp
 
 import org.junit.Test
 
