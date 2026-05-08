@@ -4,4 +4,6 @@ Tudo via console da aplicação, para fazer o projeto funcionar, basta abrir no 
 Cada Atividade solicitada está no mesmo repositório, mas separados em branchs.  
 **13/03/2026 → Atividade desenvolvida somente com Kotlin (Branch →  main)**  
 __10/04/2026 → Atividade do app finanças pessoais feito no android studio. (Branch → App_financas_android_studio)__  
-**08/05/2026 → Atividade de desenvolvimento de um crud de gerenciamento de contatos feito no android studio. (Branch →  App_cadastro_usuario)**  
+**08/05/2026 → Atividade do app de gerenciamento (CRUD) de contatos feito no android studio. (Branch →  App_cadastro_usuario).
+ A  atividade consiste no uso do retrofit para se comunicar com api exter, e sqlite para uso salvar os dados no banco de dados**  
+
